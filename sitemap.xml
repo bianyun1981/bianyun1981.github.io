@@ -2,21 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wisecoder.blog/tags/</loc>
+    <loc>https://wisecoder.blog/tags/</loc>
     
     <lastmod>2021-01-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://wisecoder.blog/2021/01/28/install-docker-ce-in-debian10-and-centos7-utilizing-aliyun-mirrors/</loc>
+    <loc>https://wisecoder.blog/2021/01/28/install-docker-ce-in-debian10-and-centos7-utilizing-aliyun-mirrors/</loc>
     
     <lastmod>2021-01-28</lastmod>
     
   </url>
   
   <url>
-    <loc>http://wisecoder.blog/categories/</loc>
+    <loc>https://wisecoder.blog/categories/</loc>
     
     <lastmod>2021-01-28</lastmod>
     
@@ -24,23 +24,23 @@
   
 
   <url>
-    <loc>http://wisecoder.blog/</loc>
-    <lastmod>2021-01-28</lastmod>
+    <loc>https://wisecoder.blog/</loc>
+    <lastmod>2021-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>http://wisecoder.blog/tags/Debian/</loc>
-    <lastmod>2021-01-28</lastmod>
+    <loc>https://wisecoder.blog/tags/Debian/</loc>
+    <lastmod>2021-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wisecoder.blog/tags/CentOS/</loc>
-    <lastmod>2021-01-28</lastmod>
+    <loc>https://wisecoder.blog/tags/CentOS/</loc>
+    <lastmod>2021-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -48,15 +48,15 @@
 
   
   <url>
-    <loc>http://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/</loc>
-    <lastmod>2021-01-28</lastmod>
+    <loc>https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/</loc>
+    <lastmod>2021-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/Docker/</loc>
-    <lastmod>2021-01-28</lastmod>
+    <loc>https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/Docker/</loc>
+    <lastmod>2021-01-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

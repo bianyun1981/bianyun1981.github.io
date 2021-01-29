@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>WiseCoder</title>
-  <icon>https://www.gravatar.com/avatar/1e33cdc0fb14c37b61db2b8b94bd92de</icon>
+  <icon>https://www.gravatar.com/avatar/a6d0e7f5775a7769d42cc4db72fb6b4b</icon>
   
-  <link href="http://wisecoder.blog/atom.xml" rel="self"/>
+  <link href="https://wisecoder.blog/atom.xml" rel="self"/>
   
-  <link href="http://wisecoder.blog/"/>
+  <link href="https://wisecoder.blog/"/>
   <updated>2021-01-28T15:44:50.635Z</updated>
-  <id>http://wisecoder.blog/</id>
+  <id>https://wisecoder.blog/</id>
   
   <author>
     <name>盲侠花满楼</name>
-    <email>bianyun1981@gmail.com</email>
+    <email>wisecoder@126.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
     <title>在 Debian 10 和 CentOS 7 中使用阿里云镜像源安装最新版 Docker</title>
-    <link href="http://wisecoder.blog/2021/01/28/install-docker-ce-in-debian10-and-centos7-utilizing-aliyun-mirrors/"/>
-    <id>http://wisecoder.blog/2021/01/28/install-docker-ce-in-debian10-and-centos7-utilizing-aliyun-mirrors/</id>
+    <link href="https://wisecoder.blog/2021/01/28/install-docker-ce-in-debian10-and-centos7-utilizing-aliyun-mirrors/"/>
+    <id>https://wisecoder.blog/2021/01/28/install-docker-ce-in-debian10-and-centos7-utilizing-aliyun-mirrors/</id>
     <published>2021-01-27T20:10:00.000Z</published>
     <updated>2021-01-28T15:44:50.635Z</updated>
     
@@ -30,14 +30,14 @@
     
     
     
-    <category term="云计算" scheme="http://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
+    <category term="云计算" scheme="https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/"/>
     
-    <category term="Docker" scheme="http://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/Docker/"/>
+    <category term="Docker" scheme="https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/Docker/"/>
     
     
-    <category term="Debian" scheme="http://wisecoder.blog/tags/Debian/"/>
+    <category term="Debian" scheme="https://wisecoder.blog/tags/Debian/"/>
     
-    <category term="CentOS" scheme="http://wisecoder.blog/tags/CentOS/"/>
+    <category term="CentOS" scheme="https://wisecoder.blog/tags/CentOS/"/>
     
   </entry>
   
