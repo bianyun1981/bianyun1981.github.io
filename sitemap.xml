@@ -25,7 +25,7 @@
 
   <url>
     <loc>https://wisecoder.blog/</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -33,14 +33,14 @@
   
   <url>
     <loc>https://wisecoder.blog/tags/Debian/</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wisecoder.blog/tags/CentOS/</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -49,14 +49,14 @@
   
   <url>
     <loc>https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://wisecoder.blog/categories/%E4%BA%91%E8%AE%A1%E7%AE%97/Docker/</loc>
-    <lastmod>2021-01-30</lastmod>
+    <lastmod>2021-01-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
